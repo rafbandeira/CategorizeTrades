@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CategorizeTradesConsole.Services/1.0.0": {
+        "dependencies": {
+          "CategorizeTrades.Repositories": "1.0.0",
+          "CategorizeTradesConsole.Business": "1.0.0"
+        },
+        "runtime": {
+          "CategorizeTradesConsole.Services.dll": {}
+        }
+      },
+      "CategorizeTrades.Repositories/1.0.0": {
+        "dependencies": {
+          "CategorizeTradesConsole.Models": "1.0.0"
+        },
+        "runtime": {
+          "CategorizeTrades.Repositories.dll": {}
+        }
+      },
+      "CategorizeTradesConsole.Business/1.0.0": {
+        "dependencies": {
+          "CategorizeTradesConsole.Models": "1.0.0"
+        },
+        "runtime": {
+          "CategorizeTradesConsole.Business.dll": {}
+        }
+      },
+      "CategorizeTradesConsole.Models/1.0.0": {
+        "runtime": {
+          "CategorizeTradesConsole.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CategorizeTradesConsole.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CategorizeTrades.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CategorizeTradesConsole.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CategorizeTradesConsole.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

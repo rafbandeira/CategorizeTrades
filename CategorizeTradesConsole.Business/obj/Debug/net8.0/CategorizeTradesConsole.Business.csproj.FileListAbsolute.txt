@@ -1,0 +1,16 @@
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Business\bin\Debug\net8.0\CategorizeTradesConsole.Business.deps.json
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Business\bin\Debug\net8.0\CategorizeTradesConsole.Business.dll
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Business\bin\Debug\net8.0\CategorizeTradesConsole.Business.pdb
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Business\bin\Debug\net8.0\CategorizeTradesConsole.Models.dll
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Business\bin\Debug\net8.0\CategorizeTradesConsole.Models.pdb
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Business\obj\Debug\net8.0\CategorizeTradesConsole.Business.csproj.AssemblyReference.cache
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Business\obj\Debug\net8.0\CategorizeTradesConsole.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Business\obj\Debug\net8.0\CategorizeTradesConsole.Business.AssemblyInfoInputs.cache
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Business\obj\Debug\net8.0\CategorizeTradesConsole.Business.AssemblyInfo.cs
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Business\obj\Debug\net8.0\CategorizeTradesConsole.Business.csproj.CoreCompileInputs.cache
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Business\obj\Debug\net8.0\CategorizeTradesConsole.Business.sourcelink.json
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Business\obj\Debug\net8.0\Categori.68759403.Up2Date
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Business\obj\Debug\net8.0\CategorizeTradesConsole.Business.dll
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Business\obj\Debug\net8.0\refint\CategorizeTradesConsole.Business.dll
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Business\obj\Debug\net8.0\CategorizeTradesConsole.Business.pdb
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Business\obj\Debug\net8.0\ref\CategorizeTradesConsole.Business.dll

@@ -1,0 +1,15 @@
+C:\Users\Altnet\source\repos\Test-Bank\Test-Bank\bin\Debug\net8.0\Test-Bank.exe
+C:\Users\Altnet\source\repos\Test-Bank\Test-Bank\bin\Debug\net8.0\Test-Bank.deps.json
+C:\Users\Altnet\source\repos\Test-Bank\Test-Bank\bin\Debug\net8.0\Test-Bank.runtimeconfig.json
+C:\Users\Altnet\source\repos\Test-Bank\Test-Bank\bin\Debug\net8.0\Test-Bank.dll
+C:\Users\Altnet\source\repos\Test-Bank\Test-Bank\bin\Debug\net8.0\Test-Bank.pdb
+C:\Users\Altnet\source\repos\Test-Bank\Test-Bank\obj\Debug\net8.0\Test-Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altnet\source\repos\Test-Bank\Test-Bank\obj\Debug\net8.0\Test-Bank.AssemblyInfoInputs.cache
+C:\Users\Altnet\source\repos\Test-Bank\Test-Bank\obj\Debug\net8.0\Test-Bank.AssemblyInfo.cs
+C:\Users\Altnet\source\repos\Test-Bank\Test-Bank\obj\Debug\net8.0\Test-Bank.csproj.CoreCompileInputs.cache
+C:\Users\Altnet\source\repos\Test-Bank\Test-Bank\obj\Debug\net8.0\Test-Bank.dll
+C:\Users\Altnet\source\repos\Test-Bank\Test-Bank\obj\Debug\net8.0\refint\Test-Bank.dll
+C:\Users\Altnet\source\repos\Test-Bank\Test-Bank\obj\Debug\net8.0\Test-Bank.pdb
+C:\Users\Altnet\source\repos\Test-Bank\Test-Bank\obj\Debug\net8.0\Test-Bank.genruntimeconfig.cache
+C:\Users\Altnet\source\repos\Test-Bank\Test-Bank\obj\Debug\net8.0\ref\Test-Bank.dll
+C:\Users\Altnet\source\repos\Test-Bank\Test-Bank\obj\Debug\net8.0\Test-Bank.sourcelink.json

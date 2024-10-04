@@ -1,0 +1,12 @@
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Models\bin\Debug\net8.0\CategorizeTradesConsole.Models.deps.json
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Models\bin\Debug\net8.0\CategorizeTradesConsole.Models.dll
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Models\bin\Debug\net8.0\CategorizeTradesConsole.Models.pdb
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Models\obj\Debug\net8.0\CategorizeTradesConsole.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Models\obj\Debug\net8.0\CategorizeTradesConsole.Models.AssemblyInfoInputs.cache
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Models\obj\Debug\net8.0\CategorizeTradesConsole.Models.AssemblyInfo.cs
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Models\obj\Debug\net8.0\CategorizeTradesConsole.Models.csproj.CoreCompileInputs.cache
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Models\obj\Debug\net8.0\CategorizeTradesConsole.Models.sourcelink.json
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Models\obj\Debug\net8.0\CategorizeTradesConsole.Models.dll
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Models\obj\Debug\net8.0\refint\CategorizeTradesConsole.Models.dll
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Models\obj\Debug\net8.0\CategorizeTradesConsole.Models.pdb
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTradesConsole.Models\obj\Debug\net8.0\ref\CategorizeTradesConsole.Models.dll

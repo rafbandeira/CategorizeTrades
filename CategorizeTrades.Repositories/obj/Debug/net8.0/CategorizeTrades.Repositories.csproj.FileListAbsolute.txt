@@ -1,0 +1,16 @@
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTrades.Repositories\obj\Debug\net8.0\CategorizeTrades.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTrades.Repositories\obj\Debug\net8.0\CategorizeTrades.Repositories.AssemblyInfoInputs.cache
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTrades.Repositories\obj\Debug\net8.0\CategorizeTrades.Repositories.AssemblyInfo.cs
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTrades.Repositories\obj\Debug\net8.0\CategorizeTrades.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTrades.Repositories\obj\Debug\net8.0\CategorizeTrades.Repositories.sourcelink.json
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTrades.Repositories\obj\Debug\net8.0\CategorizeTrades.Repositories.csproj.AssemblyReference.cache
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTrades.Repositories\bin\Debug\net8.0\CategorizeTrades.Repositories.deps.json
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTrades.Repositories\bin\Debug\net8.0\CategorizeTrades.Repositories.dll
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTrades.Repositories\bin\Debug\net8.0\CategorizeTrades.Repositories.pdb
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTrades.Repositories\bin\Debug\net8.0\CategorizeTradesConsole.Models.dll
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTrades.Repositories\bin\Debug\net8.0\CategorizeTradesConsole.Models.pdb
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTrades.Repositories\obj\Debug\net8.0\Categori.B555B9BB.Up2Date
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTrades.Repositories\obj\Debug\net8.0\CategorizeTrades.Repositories.dll
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTrades.Repositories\obj\Debug\net8.0\refint\CategorizeTrades.Repositories.dll
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTrades.Repositories\obj\Debug\net8.0\CategorizeTrades.Repositories.pdb
+C:\Users\Altnet\source\repos\Test-Bank\CategorizeTrades.Repositories\obj\Debug\net8.0\ref\CategorizeTrades.Repositories.dll

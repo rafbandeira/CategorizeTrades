@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Test_Bank</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ITrade.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CategorizeTrades.Repositories\CategorizeTrades.Repositories.csproj" />
+    <ProjectReference Include="..\CategorizeTradesConsole.Business\CategorizeTradesConsole.Business.csproj" />
+    <ProjectReference Include="..\CategorizeTradesConsole.Models\CategorizeTradesConsole.Models.csproj" />
+    <ProjectReference Include="..\CategorizeTradesConsole.Services\CategorizeTradesConsole.Services.csproj" />
+  </ItemGroup>
+
+</Project>

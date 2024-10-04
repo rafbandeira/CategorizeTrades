@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CategorizeTrades.Repositories/1.0.0": {
+        "dependencies": {
+          "CategorizeTradesConsole.Models": "1.0.0"
+        },
+        "runtime": {
+          "CategorizeTrades.Repositories.dll": {}
+        }
+      },
+      "CategorizeTradesConsole.Models/1.0.0": {
+        "runtime": {
+          "CategorizeTradesConsole.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CategorizeTrades.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CategorizeTradesConsole.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
